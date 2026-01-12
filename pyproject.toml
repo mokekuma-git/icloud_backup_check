@@ -1,7 +1,7 @@
 [project]
 name = "icloud-backup-check"
 version = "0.1.0"
-description = "Add your description here"
+description = "Extract photos and videos from iTunes/iCloud backup with original quality preserved."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
