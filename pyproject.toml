@@ -1,0 +1,14 @@
+[project]
+name = "icloud-backup-check"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.2",
+]
